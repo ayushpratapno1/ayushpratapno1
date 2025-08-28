@@ -20,8 +20,8 @@
 
 ## 🌐 Socials:
 <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ayush-pratap-singh-309141324" target="_blank" rel="noreferrer">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Logo" height="30"/>
-<a href="https://linkedin.com/in/ayush-pratap-singh-309141324" target="_blank" rel="noreferrer">
   <span>LinkedIn</span>
 </a>
 <br/>
