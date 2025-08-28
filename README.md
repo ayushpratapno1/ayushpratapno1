@@ -24,14 +24,14 @@
   <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Logo" height="30"/>
   <span>LinkedIn</span>
 </a>
-<br/>
+<br/><br/>
 
 <!-- Kaggle -->
 <a href="https://kaggle.com/byteblaze" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle Logo" height="30" width="40" />
   <span>Kaggle</span>
 </a>
-<br/>
+<br/><br/>
 
 <!-- HackerRank -->
 <a href="https://www.hackerrank.com/ayushpratapno1" target="_blank" rel="noreferrer">
