@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Real-Time Movie Recommendation System**  
+- 🔭 I’m currently working on **Myself**  
 - 🌱 I’m currently learning **Artificial Intelligence**  
 - 💬 Ask me about **AI/ML**  
 - 📫 Reach me at **ayushpratapno1@gmail.com**  
