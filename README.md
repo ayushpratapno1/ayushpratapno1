@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Pratap Singh</h1>
 <h3 align="center">
-  AI & ML Enthusiast | Student Researcher passionate about building intelligent systems | 
-  Exploring data, algorithms, and real-world applications through hands-on projects | 
-  On a journey to innovate, learn, and share knowledge 
-  with the tech community 🚀
+  AI & ML Enthusiast | Aspiring Researcher passionate about building intelligent systems | Exploring data, algorithms, and real-world applications through hands-on projects | On a journey to innovate, learn, and share knowledge with the tech community 🚀
 </h3>
 
 
