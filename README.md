@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I’m currently working on **Myself**  
+- 🔭 I’m currently working on **improving my skills and personal projects**  
 - 🌱 I’m currently learning **Artificial Intelligence**  
 - 💬 Ask me about **AI/ML**  
 - 📫 Reach me at **ayushpratapno1@gmail.com**  
